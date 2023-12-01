@@ -1,0 +1,264 @@
+ html {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ 
+ body {
+    width: auto;
+    background-color: #eaeded;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #2f95b5;
+    font-size: 0.7em;
+    font-weight: bolder;
+}
+
+#logo-header {
+    background-color: #131921;
+    height: 70px
+}
+
+#Logo {
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 50px
+}
+
+#Small {
+    background-color: #232F3D;
+    height: 30px;
+    margin: 0 auto
+    
+    }
+
+#Shop {
+    background-color: #F06A23;
+    height: 45px;
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 22.5px;
+}
+
+#SH {
+    text-align: center;
+    color: #F1FFFF;
+    font-weight: bolder;
+}
+
+#image {
+    background-image: url(./bg-image.png);
+    height: 170px;
+    padding-top: 85px;
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Ide {
+    text-align: center;
+    color: #F1FFFF;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+#Stun {
+    font-size: 0.7rem;
+    text-align: center;
+    color: #F1FFFF;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+#sezione {
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 45px;
+    
+}
+
+#h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.intro {
+    display: inline-block;
+    color: #F1FFFF;
+    text-align: center;
+    word-spacing: 15px;
+    margin-top: 5px;
+    margin-left: 25px
+}
+
+.spazio {
+    word-spacing: 1px;
+}
+
+.find {
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 8px;
+}
+
+.celestial {
+    color: #2f95b5;
+    
+    font-size: 0.7em;
+    font-weight: bolder;
+    /*padding-right: 100px*/
+}
+
+.foto-1-4 {
+        
+        display: flex;
+        /*flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        /*gap: 16px;*/
+        /*max-width: 300px;
+        margin: 0 auto;*/
+        justify-content: space-between;
+       
+}  
+
+.foto-1-4 img {
+    max-width: 100%; 
+  height: auto;
+}
+
+.radius {
+    width: 250px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 10px;
+    padding-top: 10px;
+    box-shadow: 4px 4px 4px 2px gray;
+}
+
+/*#i1 {
+    position:relative;
+    right: 480px;
+}
+
+#i2 {
+    position: relative;
+    bottom: 400px;
+}*/
+
+
+
+
+#image-9 {
+    background-image: url(./img_9.png);
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: auto;
+    height: 500px;
+}
+
+#image-10 {
+    margin-top: 45px;
+    
+    background-image: url(./img_10.png);
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: auto;
+    height: 500px;
+   
+}
+
+.ahah {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+    left: 200px;
+    font-weight: bolder;
+    
+}
+
+.gaming {
+    
+    color: #2f95b5;
+    font-size: 0.7em;
+    font-weight: bolder;
+} 
+
+#eheh {
+    text-align: center;
+    margin-top: 5px;
+    
+}
+
+#ihih {
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 5px;
+    padding-bottom: 50px;
+    
+    
+
+}
+
+#ultima {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+    
+    font-weight: bolder;
+}
+
+#back {
+    background-color: #232F3D;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top:8px;
+}
+
+#To {
+    text-align: center;
+    color: white;
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+footer {
+    background-color: #131921;
+    text-align: center;
+    height: 110px;
+}
+
+#LogoFinale {
+    width: 80px;
+    padding-top: 40px;
+}
+
+#correct {
+    color: #2f95b5;
+    font-size: 0.7em;
+    font-weight: bolder;
+}
